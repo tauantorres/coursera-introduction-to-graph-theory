@@ -1,0 +1,2 @@
+ipykernel==6.29.5
+networkx==3.4.2
